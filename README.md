@@ -1,5 +1,6 @@
 # libsvm_linear_comparison
 
+dataset: https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/
 
 
 1.Pre-proprocess the data by subtracting mean and scale them in [-1,1]
